@@ -202,7 +202,6 @@ Base URL: `https://api.llm7.io/v1`
 | -------------------------- | ------- | ---------- | ---------------- | ------------------------------- |
 | `gpt-oss:20b`              | 128K    | —          | Text             | 60 RPM, 250 req/hr (free token) |
 | mistral-Nemo-Instruct-2407 | 128K    | —          | Text             | 60 RPM, 250 req/hr (free token) |
-| minimax-m2.7               | 180K    | —          | Text (reasoning) | 60 RPM, 250 req/hr (free token) |
 | DeepSeek-V4-Flash-0731     | 400K    | —          | Text (reasoning) | 60 RPM, 250 req/hr (free token) |
 
 ### [ModelScope](https://modelscope.cn/my/myaccesstoken) 🇨🇳
@@ -293,7 +292,6 @@ Base URL: `https://oai.endpoints.kepler.ai.cloud.ovh.net/v1`
 | Qwen3.8-27B                    | 262K    | —          | Text + Vision | 2 RPM (anonymous) |
 | Qwen3.6-27B                    | 262K    | ~32K       | Text + Vision | 2 RPM (anonymous) |
 | Qwen3.5-9B                     | 262K    | ~8K        | Text + Vision | 2 RPM (anonymous) |
-| Qwen3-32B                      | 131K    | ~32K       | Text          | 2 RPM (anonymous) |
 | Qwen2.5-VL-72B-Instruct        | 32K     | ~8K        | Text + Vision | 2 RPM (anonymous) |
 | Mistral-Small-3.2-24B-Instruct | 128K    | ~4K        | Text          | 2 RPM (anonymous) |
 | Mistral-Nemo-Instruct-2407     | 128K    | ~4K        | Text          | 2 RPM (anonymous) |
