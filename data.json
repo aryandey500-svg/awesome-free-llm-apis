@@ -696,14 +696,6 @@
           "rateLimit": "60 RPM, 250 req/hr (free token)"
         },
         {
-          "id": "minimax-m2.7",
-          "name": "minimax-m2.7",
-          "context": "180K",
-          "maxOutput": "—",
-          "modality": "Text (reasoning)",
-          "rateLimit": "60 RPM, 250 req/hr (free token)"
-        },
-        {
           "id": "DeepSeek-V4-Flash-0731",
           "name": "DeepSeek-V4-Flash-0731",
           "context": "400K",
@@ -1121,14 +1113,6 @@
           "context": "262K",
           "maxOutput": "~8K",
           "modality": "Text + Vision",
-          "rateLimit": "2 RPM (anonymous)"
-        },
-        {
-          "id": "Qwen3-32B",
-          "name": "Qwen3-32B",
-          "context": "131K",
-          "maxOutput": "~32K",
-          "modality": "Text",
           "rateLimit": "2 RPM (anonymous)"
         },
         {
